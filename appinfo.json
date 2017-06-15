@@ -29,9 +29,9 @@
                 "type": "font"
             },
             {
-                "file": "images/golfshot",
+                "file": "images/golfshot.png",
                 "menuIcon": true,
-                "name": "IMAGES_GOLFSHOT",
+                "name": "IMAGES_GOLFSHOT_PNG",
                 "type": "bitmap"
             }
         ]
